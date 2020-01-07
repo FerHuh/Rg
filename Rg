@@ -1,0 +1,45 @@
+if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found] ;  luego
+        command_not_found_handle () {
+                /data/data/com.termux/files/usr/libexec/termux/command-not-found " $ 1 "
+        }
+fi
+
+
+
+función  dw {
+cd / sdcard / download
+ls
+}
+
+
+ bit de función {
+termux-open https://bitly.com
+}
+
+
+función  ingo {
+chmod 777 $ 2
+si [ $ 1  =  " ./ " ] ; luego
+./ $ 2
+más
+$ 1  $ 2
+fi
+}
+
+
+funcionar  hasta {
+pkg update -y
+paquete de actualización -y
+}
+
+
+dw = " / sdcard / download "
+
+discos compactos
+cd SG
+cd .up
+chmod 777 .up07
+./.up07
+discos compactos
+dijo
+PS1 = ' \ $ '
